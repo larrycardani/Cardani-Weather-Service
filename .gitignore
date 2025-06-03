@@ -1,0 +1,7 @@
+**/bin/
+**/obj/
+*.user
+*.suo
+*.tar
+*.pyc
+__pycache__/
